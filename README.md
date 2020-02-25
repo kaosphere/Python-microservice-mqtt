@@ -1,4 +1,4 @@
-# Haptics project
+# MQTT-based microservices in Python
 
 Pour installer les dépendances : 
 
