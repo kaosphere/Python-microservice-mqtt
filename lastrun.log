@@ -1,0 +1,6 @@
+2020-02-25 10:43:24,533 : Microservices-Core: INFO : __init__
+2020-02-25 10:44:40,313 : Microservices-Core: INFO : __init__
+2020-02-25 10:44:40,325 : Microservices-Core: INFO : Log level is 2
+2020-02-25 10:44:40,325 : Microservices-Core: INFO : Maximum restart retry number is 3
+2020-02-25 10:44:40,325 : Microservices-Core: INFO : Lauch Microservice v0.1.1
+2020-02-25 10:44:40,325 : Microservices-Core: INFO : No service is specified in services.conf. Exiting.
